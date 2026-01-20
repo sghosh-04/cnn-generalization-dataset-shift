@@ -33,15 +33,11 @@ of commonly used CNN architectures.
 
 ## 📁 Repository Structure
 - `paper/` – Full technical report (PDF)
-- `experiments/` – Training and evaluation scripts
 - `notebooks/` – Analysis and visualization
-- `figures/` – Confusion matrices, ROC curves, Grad-CAM examples
+- `figures/` – Validation Accuracy, Training Accuracy, Grad-CAM examples
 
 ## 📄 Paper
 The full report is available here:
-[`paper/paper.pdf`](paper/paper.pdf)
+[`paper/ON THE GENERALIZATION OF CNN.pdf`](paper/ON THE GENERALIZATION OF CNN.pdf)
 
-## 🚀 Reproducibility
-Install dependencies:
-```bash
-pip install -r requirements.txt
+
